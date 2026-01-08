@@ -18,9 +18,8 @@ Cocok untuk **web developer, freelancer, pelajar, atau siapa saja** yang ingin m
 
 ## 📸 Preview Tampilan
 
-> Gunakan GitHub Pages untuk melihat demo langsung  
-> atau tambahkan screenshot di folder `/preview`
-
+> untuk melihat demo langsung kunjungi link berikut : 
+https://templateportofolio.netlify.app/
 ---
 
 ## 📁 Struktur Folder
