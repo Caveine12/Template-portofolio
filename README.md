@@ -1,6 +1,6 @@
 # 🎨 Portfolio Website – Tailwind CSS
 
-Template **Portfolio Website modern & responsif** yang dibuat menggunakan **HTML + Tailwind CSS**.  
+Template **Portfolio Website modern & responsif** yang dibuat menggunakan **HTML + Tailwind CSS** yang dijadikan 1 file **index.html**.  
 Cocok untuk **web developer, freelancer, pelajar, atau siapa saja** yang ingin memiliki website portfolio pribadi dengan tampilan profesional.
 
 ---
